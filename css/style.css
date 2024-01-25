@@ -3,13 +3,13 @@
 :root {
  --header-height: 3.5rem;
 
- --first-color: hsl(183, 64%, 54%);
- --first-color-alt: hsl(183, 64%, 52%);
- --title-color: hsl(183, 16%, 15%);
- --text-color: hsl(183, 16%, 35%);
- --text-color-light: hsl(183, 8%, 55%);
- --body-color: hsl(183, 100%, 96%);
- --container-color: hsl(183, 100%, 97%);
+ --first-color: hsl(60, 64%, 54%);
+ --first-color-alt: hsl(60, 64%, 52%);
+ --title-color: hsl(60, 16%, 15%);
+ --text-color: hsl(60, 16%, 35%);
+ --text-color-light: hsl(60, 8%, 55%);
+ --body-color: hsl(60, 100%, 96%);
+ --container-color: hsl(60, 100%, 97%);
 
  /*.5rem = 8px | lrem = 16px */
  --body-font: 'Poppins', sans-serif;
