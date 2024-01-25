@@ -305,6 +305,8 @@ body.dark-theme {
 
 .about__img {
  width: 300px;
+ height: 300px;
+ object-fit: cover;
  justify-self: center;
  border-radius: 50%;
 }
@@ -927,6 +929,8 @@ body.dark-theme {
 
  .about__img {
   width: 600px;
+  height: 600px;
+  object-fit: cover;
   position: absolute;
   right: -1rem;
  }
