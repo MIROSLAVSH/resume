@@ -74,11 +74,11 @@ h3 {
 .dark-theme .bg-header,
 .dark-theme .nav__menu,
 .dark-theme .scrollup {
- box-shadow: 0 2px 8px hsl(183, 64%, 4%, 0.5);
+ box-shadow: 0 2px 8px hsl(60, 64%, 4%, 0.5);
 }
 
 .dark-theme .education__card {
- box-shadow: 0 2px 8px hsl(183, 64%, 4%, 0.2);
+ box-shadow: 0 2px 8px hsl(60, 64%, 4%, 0.2);
 }
 
 .dark-theme .newsletter__content {
@@ -235,7 +235,7 @@ body.dark-theme {
   left: 0;
   background-color: var(--body-color);
   width: 100%;
-  box-shadow: 0 8px 20px hsla(183, 64%, 24%, 0.1);
+  box-shadow: 0 8px 20px hsla(60, 64%, 24%, 0.1);
   padding-block: 3.5rem;
   transition: top 0.4s;
  }
@@ -269,7 +269,7 @@ body.dark-theme {
 /* change bg header */
 
 .bg-header {
- box-shadow: 0 2px 8px hsla(183, 64%, 24%, 0.1);
+ box-shadow: 0 2px 8px hsla(60, 64%, 24%, 0.1);
 }
 
 /* active-link */
@@ -409,7 +409,7 @@ body.dark-theme {
  position: relative;
  background-color: var(--container-color);
  padding: 7rem 2rem 1.5rem;
- box-shadow: 0 8px 20px hsla(183, 64%, 48%, 0.08);
+ box-shadow: 0 8px 20px hsla(60, 64%, 48%, 0.08);
  border-radius: 1rem;
  text-align: center;
  transition: background 0.4s; /* for dark mode */
@@ -459,7 +459,7 @@ body.dark-theme {
  border-radius: 50%;
  color: #fff;
  font-size: 1.25rem;
- box-shadow: 0 4px 20px hsla(183, 64%, 20%, 0.2);
+ box-shadow: 0 4px 20px hsla(60, 64%, 20%, 0.2);
  position: absolute;
  bottom: 1.25rem;
  right: 0.5rem;
@@ -541,7 +541,7 @@ body.dark-theme {
 	position: relative;
 	background-color: var(--container-color);
 	padding: 7rem 2rem 1.5rem;
-	box-shadow: 0 8px 20px hsla(183, 64%, 48%, 0.08);
+	box-shadow: 0 8px 20px hsla(60, 64%, 48%, 0.08);
 	border-radius: 1rem;
 	text-align: center;
 	top: 1rem;
@@ -593,7 +593,7 @@ body.dark-theme {
 	border-radius: 50%;
 	color: #fff;
 	font-size: 1.25rem;
-	box-shadow: 0 4px 20px hsla(183, 64%, 20%, 0.2);
+	box-shadow: 0 4px 20px hsla(60, 64%, 20%, 0.2);
 	position: absolute;
 	bottom: 1.25rem;
 	right: 0.8rem;
@@ -658,7 +658,7 @@ body.dark-theme {
 	position: relative;
 	background-color: var(--container-color);
 	padding: 7rem 2rem 1.5rem;
-	box-shadow: 0 8px 20px hsla(183, 64%, 48%, 0.08);
+	box-shadow: 0 8px 20px hsla(60, 64%, 48%, 0.08);
 	border-radius: 1rem;
 	text-align: center;
 	transition: background 0.4s; /* for dark mode */
@@ -685,7 +685,7 @@ body.dark-theme {
 	border-radius: 50%;
 	color: #fff;
 	font-size: 1.25rem;
-	box-shadow: 0 4px 20px hsla(183, 64%, 20%, 0.2);
+	box-shadow: 0 4px 20px hsla(60, 64%, 20%, 0.2);
 	position: absolute;
 	bottom: 1.25rem;
 	right: 0.8rem;
@@ -788,7 +788,7 @@ body.dark-theme {
 	right: 1rem;
 	bottom: -50%;
 	background-color: var(--container-color);
-	box-shadow: 0 4px 12px hsla(19, 64%, 24%, .1);
+	box-shadow: 0 4px 12px hsla(60, 64%, 24%, .1);
 	display: inline-flex;
 	padding: .35rem;
 	border-radius: .25rem;
