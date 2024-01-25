@@ -91,26 +91,26 @@ h3 {
 }
 
 .dark-theme::-webkit-scrollbar {
- background-color: hsl(183, 8%, 5%);
+ background-color: hsl(60, 8%, 5%);
 }
 
 .dark-theme::-webkit-scrollbar-thumb {
- background-color: hsl(183, 8%, 15%);
+ background-color: hsl(60, 8%, 15%);
 }
 
 .dark-theme::-webkit-scrollbar-thumb:hover {
- background-color: hsl(183, 8%, 25%);
+ background-color: hsl(60, 8%, 25%);
 }
 
 /* variable dark theme */
 
 body.dark-theme {
- --first-color: hsl(183, 64%, 58%);
- --first-color-alt: hsl(183, 64%, 54%);
- --title-color: hsl(183, 24%, 85%);
- --text-color: hsl(183, 16%, 65%);
- --body-color: hsl(183, 12%, 8%);
- --container-color: hsl(183, 10%, 10%);
+ --first-color: hsl(60, 64%, 58%);
+ --first-color-alt: hsl(60, 64%, 54%);
+ --title-color: hsl(60, 24%, 85%);
+ --text-color: hsl(60, 16%, 65%);
+ --body-color: hsl(60, 12%, 8%);
+ --container-color: hsl(60, 10%, 10%);
 }
 
 /* reusable css classes */
@@ -762,16 +762,16 @@ body.dark-theme {
 ::-webkit-scrollbar{
 	width: .6rem;
 	border-radius: .5rem;
-	background-color: hsl(183, 8%, 75%);
+	background-color: hsl(60, 8%, 75%);
 }
 
 ::-webkit-scrollbar-thumb{
 	border-radius: .5rem;
-	background-color: hsl(183, 8%, 55%);
+	background-color: hsl(60, 8%, 55%);
 }
 
 ::-webkit-scrollbar-thumb:hover{
-	background-color: hsl(183, 8%, 45%);
+	background-color: hsl(60, 8%, 45%);
 }
 
 /* scroll bar end*/
